@@ -1,0 +1,15 @@
+C:\Users\Mesha\Desktop\New folder\break_and\bin\Debug\net6.0\break_and.exe
+C:\Users\Mesha\Desktop\New folder\break_and\bin\Debug\net6.0\break_and.deps.json
+C:\Users\Mesha\Desktop\New folder\break_and\bin\Debug\net6.0\break_and.runtimeconfig.json
+C:\Users\Mesha\Desktop\New folder\break_and\bin\Debug\net6.0\break_and.dll
+C:\Users\Mesha\Desktop\New folder\break_and\bin\Debug\net6.0\break_and.pdb
+C:\Users\Mesha\Desktop\New folder\break_and\obj\Debug\net6.0\break_and.csproj.AssemblyReference.cache
+C:\Users\Mesha\Desktop\New folder\break_and\obj\Debug\net6.0\break_and.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mesha\Desktop\New folder\break_and\obj\Debug\net6.0\break_and.AssemblyInfoInputs.cache
+C:\Users\Mesha\Desktop\New folder\break_and\obj\Debug\net6.0\break_and.AssemblyInfo.cs
+C:\Users\Mesha\Desktop\New folder\break_and\obj\Debug\net6.0\break_and.csproj.CoreCompileInputs.cache
+C:\Users\Mesha\Desktop\New folder\break_and\obj\Debug\net6.0\break_and.dll
+C:\Users\Mesha\Desktop\New folder\break_and\obj\Debug\net6.0\refint\break_and.dll
+C:\Users\Mesha\Desktop\New folder\break_and\obj\Debug\net6.0\break_and.pdb
+C:\Users\Mesha\Desktop\New folder\break_and\obj\Debug\net6.0\break_and.genruntimeconfig.cache
+C:\Users\Mesha\Desktop\New folder\break_and\obj\Debug\net6.0\ref\break_and.dll
